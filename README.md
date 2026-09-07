@@ -6,7 +6,7 @@ Public policies, terms of service, and documentation for [slsh.jp](https://slsh.
 
 ---
 
-## 変更履歴（差分）の確認方法
+## 変更履歴の確認方法
 
 規約がいつ、どこが変更されたかを確認する方法は以下の2通りあります。
 
